@@ -2,10 +2,11 @@
 
 #### BOND / CBD (Uniswap — 2.25% Fee Tier)
 
-**Total Deployed: 61.1M BOND**
+**Total Deployed: 62.1M BOND**
 
 * 100K BOND → 0.0033 – 0.0111 CBD
 * 1M BOND → 0.00517 – 0.0111 CBD
+* 1M BOND -> 0.00345 - 0.01666 CBD
 * 10M BOND → 0.00971 – 0.11026 CBD
 * 20M BOND → 0.01456 – 0.50917 CBD
 * 30M BOND → 0.02498 – 0.76339 CBD
@@ -14,10 +15,11 @@
 
 #### BOND / cbdETH (Uniswap — 4.5% Fee Tier)
 
-**Total Deployed: 31.15M BOND**
+**Total Deployed: 32.15M BOND**
 
 * 50K BOND → 157,850 – 661,900 BOND
 * 1M BOND → 91,989 – 338,231 BOND
+* 1M BOND -> 188,979 - 556,453 BOND
 * 10M BOND → 19,920 – 226,247 BOND
 * 20M BOND → 3,942 – 120,501 BOND
 
