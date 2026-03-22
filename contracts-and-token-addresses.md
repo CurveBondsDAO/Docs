@@ -31,11 +31,12 @@ Users are encouraged to independently verify all contracts on-chain.
 
 #### Bond Tokens
 
-| Token | Description                 | Contract Address                             |
-| ----- | --------------------------- | -------------------------------------------- |
-| BOND  | Core DAO / bond token       | `0x0204F05Af77c640eF80675dEC46fF90CF996A90A` |
-| sBOND | Staked BOND (yield-bearing) | `0xBC03f8d07D2DCdA3f846938F64898EB4769d2806` |
-| vBOND | Vested BOND token           | `0x7ae4a4C32E4923D05cE641E3DF6a98d73a10A7ac` |
+| Token          | Description                 | Contract Address                             |
+| -------------- | --------------------------- | -------------------------------------------- |
+| BOND           | Core DAO / bond token       | `0x0204F05Af77c640eF80675dEC46fF90CF996A90A` |
+| sBOND          | Staked BOND (yield-bearing) | `0xBC03f8d07D2DCdA3f846938F64898EB4769d2806` |
+| vBOND          | Vote Locked BOND token      | `0x7ae4a4C32E4923D05cE641E3DF6a98d73a10A7ac` |
+| VestedBOND2026 | Vested BOND Reward Token    | `0x737d17A3D348f80a0FDd9730873f586952139082` |
 
 ***
 
