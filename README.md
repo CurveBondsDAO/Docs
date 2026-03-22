@@ -14,4 +14,4 @@ The protocol achieves this by:
 
 * Aggregating and deploying capital into leading Curve strategies
 * Offering a **variable-yield stablecoin, a variable-yield ETH derivative** and **fixed-rate USD/ETH bond products**
-* Capturing and reinvesting protocol revenue to create a **compounding treasury base that helps maintain 100%+ collateralization levels in case of losses.**&#x20;
+* Capturing and reinvesting protocol revenue to create a **compounding treasury base that helps maintain 100%+ collateralization levels in case any deployed strategies suffer loss.**&#x20;
