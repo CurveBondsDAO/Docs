@@ -38,6 +38,3 @@
 * [Risks and Security](risks-and-security/README.md)
   * [Disclaimer](risks-and-security/disclaimer.md)
 * [Contracts](contracts.md)
-* [Page 1](page-1.md)
-* [Page 2](page-2.md)
-* [Untitled](untitled.md)
