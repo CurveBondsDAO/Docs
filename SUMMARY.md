@@ -33,7 +33,7 @@
 * [Insurance](insurance/README.md)
   * [Insurance Development Initiatives](insurance/insurance-development-initiatives.md)
 * [Audits](https://github.com/CurveBondsDAO/audits/)
-* [Curve Bonds DAO Application ](https://crvbonds.com/dapp)
+* [Application ](https://crvbonds.com/dapp)
 * [Telegram Chat](https://t.me/CurveBondsDAO)
 * [Aragon DAO Voting Group](https://app.aragon.org/dao/ethereum-mainnet/crvbonds.dao.eth/dashboard?members=0x3e025603325B25F8824a1DAA040Cc9589c78928F-multisig\&proposals=all)
 * [Risks and Security](risks-and-security/README.md)

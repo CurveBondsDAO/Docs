@@ -54,3 +54,9 @@ Users are encouraged to independently verify all contracts on-chain.
 | Contract                | Description               | Address                                      |
 | ----------------------- | ------------------------- | -------------------------------------------- |
 | sBOND → vBOND Converter | Converts sBOND into vBOND | `0xc393a58afe60b0cc0937613d4fcc47c205cfe3da` |
+
+### DAO & Treasury Contracts
+
+| Contract                          | Description                                               | Address                                      |
+| --------------------------------- | --------------------------------------------------------- | -------------------------------------------- |
+| Curve Bonds DAO (Aragon Treasury) | Primary DAO-controlled treasury and governance executor.  | `0xAF99B450a7d614f28b7bdc9eBabd2Eebc48bc3B2` |
