@@ -8,7 +8,7 @@ These include:
 
 **Key characteristics:**
 
-* Focus on **high-liquidity ETH markets**
+* **High-liquidity ETH markets**
 * Prioritization of **incentivized pools**
 * Bluechip ETH assets with a long history of stability.&#x20;
 
