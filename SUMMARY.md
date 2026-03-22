@@ -29,6 +29,7 @@
 * [Governance Framework](governance-framework/README.md)
   * [DAO Upgrade Process](governance-framework/dao-upgrade-process.md)
   * [Treasury Optimization Process](governance-framework/treasury-optimization-process.md)
+* [Contracts & Token Addresses](contracts-and-token-addresses.md)
 * [Insurance](insurance/README.md)
   * [Insurance Development Initiatives](insurance/insurance-development-initiatives.md)
 * [Audits](https://github.com/CurveBondsDAO/audits/)
@@ -37,4 +38,3 @@
 * [Aragon DAO Voting Group](https://app.aragon.org/dao/ethereum-mainnet/crvbonds.dao.eth/dashboard?members=0x3e025603325B25F8824a1DAA040Cc9589c78928F-multisig\&proposals=all)
 * [Risks and Security](risks-and-security/README.md)
   * [Disclaimer](risks-and-security/disclaimer.md)
-* [Contracts](contracts.md)
